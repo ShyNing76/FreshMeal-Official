@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Study/Semester%204/PRJ301/F.R.E.S.H_Meal_Official/web/view/jsp/admin/admin.jsp</file>
+            <file>file:/D:/Study/Semester%204/PRJ301/F.R.E.S.H_Meal_Official/src/java/controller/admin/management/order/ManageOrderInBatches.java</file>
+            <file>file:/D:/Study/Semester%204/PRJ301/F.R.E.S.H_Meal_Official/src/java/controller/web/plan/CreatePersonalPlanServlet.java</file>
+            <file>file:/D:/Study/Semester%204/PRJ301/F.R.E.S.H_Meal_Official/web/view/jsp/admin/weeklyplan-admin.jsp</file>
+            <file>file:/D:/Study/Semester%204/PRJ301/F.R.E.S.H_Meal_Official/src/java/filter/AdminFilter.java</file>
+            <file>file:/D:/Study/Semester%204/PRJ301/F.R.E.S.H_Meal_Official/src/java/controller/web/shopping_cart/Checkout4Servlet.java</file>
+            <file>file:/D:/Study/Semester%204/PRJ301/F.R.E.S.H_Meal_Official/src/java/controller/admin/management/order/UpdateOrderServlet.java</file>
+            <file>file:/D:/Study/Semester%204/PRJ301/F.R.E.S.H_Meal_Official/src/java/controller/web/plan/PersonalPlanServlet.java</file>
+            <file>file:/D:/Study/Semester%204/PRJ301/F.R.E.S.H_Meal_Official/src/java/controller/web/login/RegisterServlet.java</file>
+            <file>file:/D:/Study/Semester%204/PRJ301/F.R.E.S.H_Meal_Official/src/java/controller/web/shopping_cart/Checkout5Servlet.java</file>
+            <file>file:/D:/Study/Semester%204/PRJ301/F.R.E.S.H_Meal_Official/web/view/jsp/admin/order-admin.jsp</file>
+        </group>
+    </open-files>
+</project-private>
