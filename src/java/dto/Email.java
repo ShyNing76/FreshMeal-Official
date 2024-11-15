@@ -21,8 +21,8 @@ import javax.mail.internet.MimeMessage;
  */
 public class Email implements Serializable {
 
-    // private final String eFrom = "freshmeal05072004@gmail.com";
-    // private final String ePass = "ossh cptm obpd gmol";
+     private final String eFrom = "freshmeal05072004@gmail.com";
+     private final String ePass = "ossh cptm obpd gmol";
 
     public void sendEmail(String subject, String messgage, String to) {
         // Properties : Khai báo các thuộc tính
