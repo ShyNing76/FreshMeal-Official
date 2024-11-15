@@ -66,10 +66,6 @@ The application follows the MVC2 architecture:
 - **Controller**: Servlets for request handling
 - **Filters**: Request/Response preprocessing (optional enhancement)
 
-# FRESHMEAL - Healthy Meal Planning & Delivery System
-
-[Previous sections remain the same until Key Features]
-
 ## 📸 Main Interface & Features
 
 ### 1. Home Page
@@ -143,6 +139,8 @@ src/
 
 ## 📞 Support
 For support, please contact [FreshMeal](freshmeal05072004@gmail.com)
+
+---
 
 <div align="center">
   Made with ❤️ by the FreshMeal Team
